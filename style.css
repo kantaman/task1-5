@@ -6,7 +6,7 @@
 }
 
 header {
-  width: 100%; /* 横幅100% */
+  width: 100%; /* 横幅100%に設定 */
   padding: 20px 0;
   text-align: center;
 }
